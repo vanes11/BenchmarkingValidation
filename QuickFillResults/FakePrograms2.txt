@@ -1,0 +1,58 @@
+B14
+
+***
+B9
+
+***
+B16
+
+***
+B15
+
+***
+B7
+Concatenate(SubStr(b1,Cpos(b1,-5),Cpos(b1,0))˅ConstStr( )˅SubStr2(b3,TokenSeq(UpperTok),1)˅ConstStr(.))
+Concatenate(SubStr(b1,Cpos(b1,0),Cpos(b1,-5))˅ConstStr( )˅SubStr2(b3,TokenSeq(UpperTok),1)˅ConstStr(.))
+Concatenate(SubStr(b1,Cpos(b1,0),Cpos(b1,-5))˅ConstStr( )˅SubStr(b3,Cpos(b3,0),Cpos(b3,0))˅ConstStr(.))
+Concatenate(SubStr(b1,Cpos(b1,-5),Cpos(b1,-5))˅ConstStr( )˅SubStr(b3,Cpos(b3,0),Cpos(b3,0))˅ConstStr(.))
+Concatenate(SubStr(b1,Cpos(b1,-5),Cpos(b1,-5))˅ConstStr( )˅SubStr2(b3,TokenSeq(UpperTok),1)˅ConstStr(.))
+Concatenate(SubStr(b1,Cpos(b1,-5),Cpos(b1,0))˅ConstStr( )˅SubStr(b3,Cpos(b3,0),Cpos(b3,0))˅ConstStr(.))
+***
+B12
+
+***
+B10
+
+***
+B3
+Concatenate(SubStr2(b1,TokenSeq(UpperTok),1)˅ConstStr(()˅SubStr(b3,Cpos(b3,-5),Cpos(b3,0)))
+Concatenate(SubStr(b1,Cpos(b1,0),Cpos(b1,0))˅ConstStr(()˅SubStr(b3,Cpos(b3,0),Cpos(b3,-5)))
+Concatenate(SubStr2(b1,TokenSeq(UpperTok),1)˅ConstStr(()˅SubStr(b3,Cpos(b3,0),Cpos(b3,-5)))
+Concatenate(SubStr(b1,Cpos(b1,0),Cpos(b1,0))˅ConstStr(()˅SubStr(b3,Cpos(b3,-5),Cpos(b3,-5)))
+Concatenate(SubStr2(b1,TokenSeq(UpperTok),1)˅ConstStr(()˅SubStr(b3,Cpos(b3,-5),Cpos(b3,-5)))
+Concatenate(SubStr(b1,Cpos(b1,0),Cpos(b1,0))˅ConstStr(()˅SubStr(b3,Cpos(b3,-5),Cpos(b3,0)))
+***
+B8
+
+***
+B6
+
+***
+B1
+
+***
+B13
+
+***
+B5
+
+***
+B11
+
+***
+B4
+
+***
+B2
+
+***

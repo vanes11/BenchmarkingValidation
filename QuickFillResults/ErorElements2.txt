@@ -1,0 +1,58 @@
+B14
+
+***
+B9
+
+***
+B16
+
+***
+B15
+
+***
+B7
+'"v1": "Krxxrw", "v2": "Ybuyjb"' : "new_value": " Y.", "old_value": "K Y."
+'"v1": "Krxxrw", "v2": "Ybuyjb"' : "new_value": "Kr Y.", "old_value": "K Y."
+'"v1": "Krxxrw", "v2": "Ybuyjb"' : "new_value": "Kr Y.", "old_value": "K Y."
+'"v1": "Krxxrw", "v2": "Ybuyjb"' : "new_value": "r Y.", "old_value": "K Y."
+'"v1": "Krxxrw", "v2": "Ybuyjb"' : "new_value": "r Y.", "old_value": "K Y."
+'"v1": "Krxxrw", "v2": "Ybuyjb"' : "new_value": " Y.", "old_value": "K Y."
+***
+B12
+
+***
+B10
+
+***
+B3
+'"v1": "Audrey", "v2": "Leatitia."' : "new_value": "A(", "old_value": "A(L"
+'"v1": "Audrey", "v2": "Leatitia."' : "new_value": "A(Leati", "old_value": "A(L"
+'"v1": "Audrey", "v2": "Leatitia."' : "new_value": "A(Leati", "old_value": "A(L"
+'"v1": "Audrey", "v2": "Leatitia."' : "new_value": "A(i", "old_value": "A(L"
+'"v1": "Audrey", "v2": "Leatitia."' : "new_value": "A(i", "old_value": "A(L"
+'"v1": "Audrey", "v2": "Leatitia."' : "new_value": "A(", "old_value": "A(L"
+***
+B8
+
+***
+B6
+
+***
+B1
+
+***
+B13
+
+***
+B5
+
+***
+B11
+
+***
+B4
+
+***
+B2
+
+***
